@@ -1,0 +1,25 @@
+{
+  "name": "hardhat-javascript-starter",
+  "scripts": {
+    "build": "npx thirdweb@latest detect",
+    "deploy": "npx thirdweb@latest deploy",
+    "release": "npx thirdweb@latest release"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.5",
+    "hardhat": "^2.12.6",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.0",
+    "@manifoldxyz/creator-core-solidity": "^2.0.2",
+    "@manifoldxyz/libraries-solidity": "^1.0.4",
+    "@manifoldxyz/royalty-registry-solidity": "^2.0.0",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@openzeppelin/contracts-upgradeable": "^4.8.1",
+    "@openzeppelin/hardhat-upgrades": "^1.22.0",
+    "@thirdweb-dev/contracts": "^3",
+    "solmate": "^6.6.1",
+    "typechain": "^8.1.1"
+  }
+}

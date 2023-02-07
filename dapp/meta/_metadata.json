@@ -1,0 +1,362 @@
+[
+  {
+    "name": "VagaBondDegens #1",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "e97981bb8c5265a4e3effa8e15d075b22bc8de2d",
+    "edition": 1,
+    "date": 1656922736352,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "fuji"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "whitepaper"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "red"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "wine"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "eth"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "orange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #2",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "c4a1e74f2d64e4765832af102bd025df27985428",
+    "edition": 2,
+    "date": 1656922736561,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "kodakgold800"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "undermyskin"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "mixer"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "eth"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "orange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #3",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "a496e88291968d256b8e4cab36267aba10a7596f",
+    "edition": 3,
+    "date": 1656922736769,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "kodakgold800"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "legovibes"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "filmstrip"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "we"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "orange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #4",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "7a81f620248004602a0f1cb83a253ac29ad2eb70",
+    "edition": 4,
+    "date": 1656922737046,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "super8"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "metal"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "rangefinder"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "tiepurpleonwhite"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #5",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "350ba0cfd6cc585d6bd3bbf0c28704b6cac0b09e",
+    "edition": 5,
+    "date": 1656922737395,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "fuji"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "lightwall"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "orange"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "camcorder"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "tiepurpleonwhite"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "black"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #6",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "3dde70511ea22a9dbab2ac718689bfa514b32000",
+    "edition": 6,
+    "date": 1656922737642,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "nordic"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "lightwall"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "green"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "sunset"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "glasseslogosun"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "froggreen"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #7",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "d475c96d4cb05e3456a3f1dc8c552ea5d62ba389",
+    "edition": 7,
+    "date": 1656922737905,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "fujipro400H"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "lightwall"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "red"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "wine"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "eth"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "orange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #8",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "e67a2431236eb2f909e380857dbbfa53747060c8",
+    "edition": 8,
+    "date": 1656922738179,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "beyondfilm"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "spoton"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "computerblue"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "coffeebean"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "mint"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "magenta"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #9",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "9bef303913908308967bb47b97abe25ea2981ca7",
+    "edition": 9,
+    "date": 1656922738417,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "fuji"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "spoton"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "bsod"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "mixer"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "eth"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "teal"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "VagaBondDegens #10",
+    "description": "We Are All Degens. My Name is Bond, VagaBond.",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "6f157041c29c2aad429fac045f5b62f380a3bed5",
+    "edition": 10,
+    "date": 1656922738669,
+    "creator": "LiveTheLifeTV",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "nordic"
+      },
+      {
+        "trait_type": "Background_P",
+        "value": "glass"
+      },
+      {
+        "trait_type": "Body_N",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Mask_N",
+        "value": "crown"
+      },
+      {
+        "trait_type": "Accessories_N",
+        "value": "shirtblack"
+      },
+      {
+        "trait_type": "Glasses_N",
+        "value": "blue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+]

@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/collection/[chain]/[contract]/[id]": "pages/collection/[chain]/[contract]/[id].js",
+  "/": "pages/index.js",
+  "/api/reservoir/[...slug]": "pages/api/reservoir/[...slug].js"
+}
